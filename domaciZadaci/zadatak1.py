@@ -1,0 +1,4 @@
+"""
+
+Napraviti listu prve desetice
+"""
